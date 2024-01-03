@@ -2,7 +2,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/student-admission-management-system.py/blob/da7ee9c07bac2d31707f0f7b773a9d254a04bf2b/Banner_PY.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/sentiment.py/blob/35a28a6d7fb99c7ebce1d98837034b1faf45d7eb/b1.png" alt="Project Banner">
   </br>
 </div>
 
