@@ -8,7 +8,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/student-admission-management-system.py/blob/0eaec1a58baa3e9b08e56d9d0067cfb6618d104d/Banner_PY_2.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/sentiment.py/blob/e0cd54bcf578ffebb4be6a00fdca0f9ac393c4b3/b2.png" alt="Project Banner">
   </br>
 </div>
 
