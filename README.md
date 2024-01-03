@@ -27,6 +27,9 @@ An application for performing sentiment analysis on Twitter data. This Python ap
 
 - [Python](https://www.python.org/downloads/) (version 3.6 or later)
 - Twitter Developer Account for obtaining API keys and access tokens
+- [Tweepy](https://www.tweepy.org/)
+- [TextBlob](https://textblob.readthedocs.io/en/dev/)
+- [Matplotlib](https://matplotlib.org/)
 
 ## Installation
 
@@ -51,7 +54,7 @@ pip install -r requirements.txt
 # License
 This project is licensed under the MIT License.
 
-Acknowledgments
+# Acknowledgments
 [Tweepy](https://www.tweepy.org/)
 [TextBlob](https://textblob.readthedocs.io/en/dev/)
 [Matplotlib](https://matplotlib.org/)
